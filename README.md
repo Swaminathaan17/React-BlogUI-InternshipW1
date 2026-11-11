@@ -1,28 +1,26 @@
 # React Blog UI — Internship Mini Project Week 1
 
-A responsive blog interface built using React as part of an internship mini-project.
+A responsive React blog interface built as an internship mini-project. Blog posts are loaded from a JSON file and displayed using reusable React components.
 
 ## Features
-
-- Display blog posts using JSON data
-- Search posts by title and description
-- Filter posts by category
-- Reusable React components
-- Responsive design for desktop, tablet, and mobile
-- Clean and simple UI
+- Dynamic blog post cards from JSON data
+- Search articles by title or description
+- Filter articles by category
+- Responsive layout for desktop, tablet, and mobile
+- Reusable Navbar and BlogCard components
+- Empty-state message when no posts match
 
 ## Tech Stack
+React · JavaScript · HTML · CSS · JSON · Vite
 
-- React
-- JavaScript
-- HTML
-- CSS
-- JSON
-- Vite
+## Run Locally
+```bash
+npm install
+npm run dev
+```
 
 ## Project Structure
-
-```text
+```
 src/
 ├── components/
 │   ├── BlogCard.jsx
@@ -34,40 +32,16 @@ src/
 └── main.jsx
 ```
 
-## How It Works
-
-Blog post information is stored in a JSON file and displayed dynamically using React components.
-
-The application provides a search bar to find articles and category buttons to filter posts based on their topic.
-
-## Getting Started
-
-Clone the repository and install the dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-The application will then be available through the local Vite development server.
-
-## Learning Outcomes
-
-This project helped practice:
-
-- React component development
-- Props and state
-- Rendering lists using `.map()`
-- Filtering data using `.filter()`
-- Handling user input
-- Working with JSON data
-- Responsive CSS design
+## Concepts Practiced
+- Functional components and props
+- State management with useState
+- Rendering lists with map()
+- Searching and filtering with filter()
+- Handling input events
+- Importing JSON data
 
 ## Internship Mini Project
+Created to demonstrate practical React fundamentals through a small blog interface with search and category filtering.
 
-This project was developed as part of an internship to demonstrate practical React development skills, including component-based UI development, data rendering, search, and filtering.
+## Author
+Swaminathaan M
