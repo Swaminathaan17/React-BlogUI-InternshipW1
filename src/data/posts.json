@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React",
+    "category": "React",
+    "author": "Swaminathaan",
+    "date": "Nov 5, 2026",
+    "description": "Learn the basics of React components, props, state and how to build your first application.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Understanding JavaScript ES6",
+    "category": "JavaScript",
+    "author": "Rahul Kumar",
+    "date": "Nov 3, 2026",
+    "description": "Explore modern JavaScript features such as arrow functions, destructuring, promises and modules.",
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "CSS Tips for Better Websites",
+    "category": "CSS",
+    "author": "Priya Sharma",
+    "date": "Oct 30, 2026",
+    "description": "Simple CSS techniques that can help you create cleaner and more attractive web interfaces.",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Why Developers Should Learn Git",
+    "category": "Development",
+    "author": "Arun Raj",
+    "date": "Oct 27, 2026",
+    "description": "Git is an essential tool for developers. Learn how version control makes development easier.",
+    "image": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Building Responsive Layouts",
+    "category": "CSS",
+    "author": "Ananya",
+    "date": "Oct 24, 2026",
+    "description": "Learn how to make websites look great on desktops, tablets and mobile devices.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "React Hooks Explained",
+    "category": "React",
+    "author": "Vikram",
+    "date": "Oct 20, 2026",
+    "description": "A simple introduction to useState and useEffect and how they work inside React components.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=800&q=80"
+  }
+]
